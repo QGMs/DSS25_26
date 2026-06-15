@@ -1,0 +1,10 @@
+Grupo 5
+
+Modelo de Domínio:
+- as entidades "Grelhar", "Fritar", "receber Pagamento" não parecem bem. São muito redutoras e não são substantivos. Deveria ser um conceito mais genérico, ex: Função.
+- de resto o modelo parece completo e descritivo.
+
+Modelo de Use Cases:
+- o modelo parece estar completo, inclusive com UCs em excesso para o que era solicitado
+- merecerá alguma reflexão a questão dos pagamentos, pq o sistema de pagamento é externo ao sistema que agora se está a desenvolver.
+
